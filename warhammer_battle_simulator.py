@@ -12,10 +12,6 @@ for p in range(100):
 
 
 
-
-
-
-
 """ 
 M
 WS
