@@ -27,3 +27,4 @@ config['Primaris Intercessor Squad'] = {'role': {"Intercessor":{"M"       :6    
 
 with open('units.ini', 'w') as configfile:
   config.write(configfile)
+
