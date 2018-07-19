@@ -10,7 +10,8 @@ config['Primaris Intercessor Squad'] = {'role': {"Intercessor":{"M"       :6,
                                                                 "Ld"      :7,
                                                                 "Save"    :3,
                                                                 "Ref"     :0,
-                                                                "Qtd"     :4
+                                                                "Qtd"     :4,
+                                                                "Prioridade":2
                                                                  }
                                                  ,"Intercessor Sergeant":{  "M"       :6,
                                                                             "WS"      :3,
